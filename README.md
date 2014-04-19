@@ -49,37 +49,37 @@ flag so that `sonos-drive` doesn't try to run the test locally.
 Run your test in Linux Firefox on SauceLabs
 
 ```javascript
-grunt e2e:firefox --url=http://www.sonos.com --env=production
+grunt e2e:firefox --url=http://www.sonos.com --env=saucelabs
 ```
 
 Run your test in Mac Chrome on SauceLabs
 
 ```javascript
-grunt e2e:chrome --url=http://www.sonos.com --env=production
+grunt e2e:chrome --url=http://www.sonos.com --env=saucelabs
 ```
 
 Run your test in Mac Safari on SauceLabs
 
 ```javascript
-grunt e2e:safari --url=http://www.sonos.com --env=production
+grunt e2e:safari --url=http://www.sonos.com --env=saucelabs
 ```
 
 Run your test in Internet Explorer 11 on SauceLabs
 
 ```javascript
-grunt e2e:ie11 --url=http://www.sonos.com --env=production
+grunt e2e:ie11 --url=http://www.sonos.com --env=saucelabs
 ```
 
 Run your test in Internet Explorer 10 on SauceLabs
 
 ```javascript
-grunt e2e:ie10 --url=http://www.sonos.com --env=production
+grunt e2e:ie10 --url=http://www.sonos.com --env=saucelabs
 ```
 
 Run your test in Internet Explorer 9 on SauceLabs
 
 ```javascript
-grunt e2e:ie9 --url=http://www.sonos.com --env=production
+grunt e2e:ie9 --url=http://www.sonos.com --env=saucelabs
 ```
 
 Environments are maintained through the `sonos-drive` module. We can add
