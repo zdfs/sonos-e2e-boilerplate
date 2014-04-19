@@ -15,7 +15,7 @@ unzip the file, navigate to the `sonos-e2e-boilerplate` directory and run:
 npm install
 ```
 
-In order to use [http://github.com/zdfs/sonos-drive](sonos-drive), which is
+In order to use [https://github.com/zdfs/sonos-drive](sonos-drive), which is
 a simple NPM module that's been installed for this project and provides all
 the necessary dependencies you need for you to easily install tests, you'll
 need to fill out your SauceLabs credentials in `spec/e2e/e2e-harness.js`.
