@@ -41,7 +41,7 @@ and run the test.
 
 Running your test against SauceLabs is not much different. Right now,
 `sonos-drive` supports 6 environments. In your `grunt` command, just pass
-the environment you want to use and make sure you pass an `--env=production`
+the environment you want to use and make sure you pass an `--env=saucelabs`
 flag so that `sonos-drive` doesn't try to run the test locally.
 
 **Examples**
