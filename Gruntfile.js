@@ -78,7 +78,8 @@ module.exports = function(grunt) {
 
 	_(drive.environments()).forEach(function(environment, key) {
     gruntConfig.env[key] = {
-			DESIRED: JSON.stringify(environment)
+			DESIRED: JSON.stringify(environment),
+			BROWSERKEY: key
     };
 	});
 
