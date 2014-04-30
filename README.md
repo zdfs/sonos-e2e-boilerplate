@@ -5,6 +5,14 @@ grunt, and sonos-drive. This example isn't meant to cover every possible
 use case, but it should get you started. If you have any questions, please
 [reach out](mailto:suit@sonos.com).
 
+## Prerequisites
+
+Before you start, please make sure you have the following tools installed:
+
+1. [JRE (Java Runtime Environment)](https://www.java.com/en/download/)
+2. [Node.js](http://nodejs.org/)
+3. [Grunt](http://gruntjs.com/getting-started)
+
 ## How to run this example
 
 This project contains a single test meant to verify a piece of text on
