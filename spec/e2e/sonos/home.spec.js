@@ -39,7 +39,7 @@ module.exports = {
 				browser
 					.elementByCssSelector('.product-section.content h1.headline')
 						.text()
-						.should.eventually.become('HiFi SOUND MEETS ROCK-SOLID WIRELESS')
+						.should.become('HiFi SOUND MEETS ROCK-SOLID WIRELESS')
 					.nodeify(done);
 			});
 
