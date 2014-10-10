@@ -13,7 +13,7 @@
     "lodash": "^2.4.1",
     "grunt-env": "~0.4.1",
     "grunt-simple-mocha": "~0.4.0",
-    "grunt-selenium-webdriver": "~0.2.392",
+    "grunt-selenium-webdriver": "~0.2.431",
     "sonos-drive": "https://github.com/zdfs/sonos-drive/tarball/master"
   },
   "repository": {
